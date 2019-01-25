@@ -1,2 +1,2 @@
-# recurrent_recommender_network_tutorial
+# recurrent_recommender_networks_tutorial
 Recurrent Recommender Networks Tutorial
