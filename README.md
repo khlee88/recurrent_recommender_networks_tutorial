@@ -2,7 +2,7 @@
 Recurrent Recommender Networks Tutorial <br>
 html page: https://khlee88.github.io/recurrent_recommender_networks_tutorial/
 
-Line by line tutorial of Recurrent Recommender Networks with the tensorflow. <br>
+Line by line tutorial of Recurrent Recommender Networks with tensorflow. <br>
 아래 원논문의 알고리즘 이해를 돕기 위한, 라인바이라인으로 코드를 수행해 볼 수 있는 Tutorial.
 
 ### reference
